@@ -1,7 +1,7 @@
 # Setup of basic gradle using cli:
 
 - Clone the repo
-- `./gradlew build`
+- `./gradlew clean`
 - `./gradlew jar`
 
 - On running the `java -jar build/libs/BuildSystemBasics-1.0-SNAPSHOT.jar` we got error as follows
